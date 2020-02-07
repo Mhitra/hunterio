@@ -1,5 +1,5 @@
 {
-    "name": "Mhitra/hunterio",
+    "name": "mhitra/hunterio",
     "description": "A PHP wrapper for Hunter.io v2 API",
     "keywords": [
         "hunterio"
@@ -20,5 +20,7 @@
         "psr-4": {
             "Hiraya\\": "src/"
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
